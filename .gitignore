@@ -1,0 +1,8 @@
+config.php
+config_override.php
+vendor
+cache
+.idea
+upload
+suitecrm.log
+install.log
